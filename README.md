@@ -1,9 +1,9 @@
 # python_template-lrawa
 Long Running App With API
 
-============================================
+========
 Python Template: Long Running w/API
-============================================
+========
 
 This is an application template for a long running process with an API.  The 
 API is meant to run sidecar to the main program and provide access / control methodology, it is not designed to be an API first.
@@ -19,9 +19,9 @@ comprehensively tested for 2.xx.
 Required Libraries:
  - flask
 
-============================================
+========
 TODO:
-============================================
+========
 TODO(sunrise): add in a route for debug so you can set debug through the API.
 TODO(sunrise): fix up the logger to work with this methodology. GetLogLevel SetLogLevel
 
